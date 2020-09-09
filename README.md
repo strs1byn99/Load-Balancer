@@ -1,4 +1,4 @@
-# Assignment 3
+# Multi-threaded Load Balancer
 
 This assignment is to implement a multi-threaded load balancer, which will distribute connections over a set of servers. Queue struct I used in this program is from GeeksforGeeks. Source: https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/
 
